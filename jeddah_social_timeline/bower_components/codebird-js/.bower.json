@@ -36,5 +36,6 @@
   },
   "_source": "git://github.com/jublonet/codebird-js.git",
   "_target": "~2.5.0",
-  "_originalSource": "codebird-js"
+  "_originalSource": "codebird-js",
+  "_direct": true
 }
